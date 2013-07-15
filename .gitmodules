@@ -34,3 +34,6 @@
 [submodule "src/plugin/Claroline/ActivityToolBundle"]
 	path = src/plugin/Claroline/ActivityToolBundle
 	url = https://github.com/claroline/ActivityToolBundle.git
+[submodule "src/plugin/Innova/PathBundle"]
+	path = src/plugin/Innova/PathBundle
+	url = https://github.com/InnovaLangues/PathBundle.git
